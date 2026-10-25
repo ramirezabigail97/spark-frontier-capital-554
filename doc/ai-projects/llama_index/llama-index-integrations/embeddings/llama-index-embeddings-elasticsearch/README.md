@@ -1,0 +1,2 @@
+# LlamaIndex Embeddings Integration: Elasticsearch
+
